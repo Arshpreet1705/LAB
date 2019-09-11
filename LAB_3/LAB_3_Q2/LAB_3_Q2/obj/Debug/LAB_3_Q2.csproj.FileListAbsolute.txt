@@ -1,7 +1,0 @@
-C:\Users\arshpr\source\repos\LAB_3_Q2\LAB_3_Q2\bin\Debug\LAB_3_Q2.exe.config
-C:\Users\arshpr\source\repos\LAB_3_Q2\LAB_3_Q2\bin\Debug\LAB_3_Q2.exe
-C:\Users\arshpr\source\repos\LAB_3_Q2\LAB_3_Q2\bin\Debug\LAB_3_Q2.pdb
-C:\Users\arshpr\source\repos\LAB_3_Q2\LAB_3_Q2\obj\Debug\LAB_3_Q2.csprojAssemblyReference.cache
-C:\Users\arshpr\source\repos\LAB_3_Q2\LAB_3_Q2\obj\Debug\LAB_3_Q2.csproj.CoreCompileInputs.cache
-C:\Users\arshpr\source\repos\LAB_3_Q2\LAB_3_Q2\obj\Debug\LAB_3_Q2.exe
-C:\Users\arshpr\source\repos\LAB_3_Q2\LAB_3_Q2\obj\Debug\LAB_3_Q2.pdb
