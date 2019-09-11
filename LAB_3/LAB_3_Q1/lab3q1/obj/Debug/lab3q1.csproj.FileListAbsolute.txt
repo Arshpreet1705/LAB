@@ -1,0 +1,10 @@
+C:\Users\arshpr\Desktop\training\LAB_3\lab3q1\lab3q1\bin\Debug\lab3q1.exe.config
+C:\Users\arshpr\Desktop\training\LAB_3\lab3q1\lab3q1\bin\Debug\lab3q1.exe
+C:\Users\arshpr\Desktop\training\LAB_3\lab3q1\lab3q1\bin\Debug\lab3q1.pdb
+C:\Users\arshpr\Desktop\training\LAB_3\lab3q1\lab3q1\bin\Debug\ClassLibrary.dll
+C:\Users\arshpr\Desktop\training\LAB_3\lab3q1\lab3q1\bin\Debug\ClassLibrary.pdb
+C:\Users\arshpr\Desktop\training\LAB_3\lab3q1\lab3q1\obj\Debug\lab3q1.csprojAssemblyReference.cache
+C:\Users\arshpr\Desktop\training\LAB_3\lab3q1\lab3q1\obj\Debug\lab3q1.csproj.CoreCompileInputs.cache
+C:\Users\arshpr\Desktop\training\LAB_3\lab3q1\lab3q1\obj\Debug\lab3q1.csproj.CopyComplete
+C:\Users\arshpr\Desktop\training\LAB_3\lab3q1\lab3q1\obj\Debug\lab3q1.exe
+C:\Users\arshpr\Desktop\training\LAB_3\lab3q1\lab3q1\obj\Debug\lab3q1.pdb
